@@ -12,14 +12,15 @@ This mobile app is designed for effective financial tracking. Users can log thei
 - Email Integration: Export a summary of income and expenses via email.
 
 # Activity Diagram
-![image](https://github.com/user-attachments/assets/5236c100-1d77-4b99-9607-a8d2c7cf1749)
+![Activity Diagram Mobile App drawio](https://github.com/user-attachments/assets/96505060-2ddf-48f7-92ee-89a7712dbe5c)
 
 # Mockups
 ## Dashboard
-![image](https://github.com/user-attachments/assets/cb039501-888a-4f03-98b9-2e8f2364eba7)
+![image](https://github.com/user-attachments/assets/8491d7ab-c254-49c1-9704-35a9a416c4d2)
 
 ## Add Entry
-![image](https://github.com/user-attachments/assets/a4e75369-402f-4cea-b105-39b762c685a5)
+![image](https://github.com/user-attachments/assets/c9bf8064-ae9a-4544-abfe-6dbb6f1651c7)
 
 ## Analytics
-![image](https://github.com/user-attachments/assets/f17cd369-7638-4d68-ac04-cc240b8264bc)
+![image](https://github.com/user-attachments/assets/c206a575-22ae-4ec1-bedd-a7d533dcf1a9)
+
